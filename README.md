@@ -1,0 +1,1 @@
+simple page of workshop
