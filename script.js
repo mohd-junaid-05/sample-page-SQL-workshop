@@ -22,11 +22,11 @@ const faqs = [
     },
     {
         question: "Get Resources & Code After Workshop?",
-        answer: "Absolutely! You receive: detailed class notes, production-ready SQL scripts, practice problems with solutions, case studies, and lifetime access to our resource repository. Everything is yours to keep forever."
+        answer: "You'll receive a helpful cheatsheet to get you started. And if you need further assistance, our Coding Club is always here to help!."
     },
     {
         question: "What if I Can't Attend All 3 Days?",
-        answer: "We recommend attending all three days. However, if you miss sessions, we provide: high-quality recorded videos, detailed notes, and one-on-one catch-up support. Contact nexus@shahanacollege.edu."
+        answer: "We highly recommend attending the workshop as much as possible to ensure you receive the helpful CheatSheet. And if you need further assistance, our Coding Club is always here to help you in the future!"
     }
 ];
 
